@@ -55,7 +55,7 @@ I risultati evidenziano un'associazione negativa moderata tra le due variabili, 
 
 ## Fonti dei dati
 
-I dati utilizzati per il progetto sono stati raccolti dai **Rendiconti sociali INPS** relativi al periodo 2022–2024.
+I dati utilizzati per il progetto sono stati raccolti dai **Rendiconti sociali INPS** relativi al periodo 2022–2024 per quanto riguarda il tasso di disoccupazione e la percentuale di NEET e dal sito dell'Eurostat per quanto riguarda la percentuale di laureati.
 
 ## Struttura della dashboard
 
